@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/katerinalazurenko/calculator/static/css/main.c259b136.css",
+    "main.js": "/katerinalazurenko/calculator/static/js/main.dde6e1aa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/katerinalazurenko/calculator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Nekst-Black.eot": "/katerinalazurenko/calculator/static/media/Nekst-Black.5fc4621c869412e7e801.eot",
+    "static/media/Nekst-Black.ttf": "/katerinalazurenko/calculator/static/media/Nekst-Black.dffaebf93d38d4c41536.ttf",
+    "static/media/Gilroy-Regular.eot": "/katerinalazurenko/calculator/static/media/Gilroy-Regular.19055ba082a9f78262f6.eot",
+    "static/media/Gilroy-Regular.ttf": "/katerinalazurenko/calculator/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Nekst-Black.woff": "/katerinalazurenko/calculator/static/media/Nekst-Black.f0e2921efcf1112b1749.woff",
+    "static/media/Nekst-Black.woff2": "/katerinalazurenko/calculator/static/media/Nekst-Black.44814bfd3ba4a266cf1d.woff2",
+    "static/media/Gilroy-Regular.woff": "/katerinalazurenko/calculator/static/media/Gilroy-Regular.ebe86c0337572553acea.woff",
+    "static/media/Gilroy-Regular.woff2": "/katerinalazurenko/calculator/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
+    "index.html": "/katerinalazurenko/calculator/index.html",
+    "static/media/btn-preloader.svg": "/katerinalazurenko/calculator/static/media/btn-preloader.4e82ac858606a43fa04f.svg",
+    "main.c259b136.css.map": "/katerinalazurenko/calculator/static/css/main.c259b136.css.map",
+    "main.dde6e1aa.js.map": "/katerinalazurenko/calculator/static/js/main.dde6e1aa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/katerinalazurenko/calculator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c259b136.css",
+    "static/js/main.dde6e1aa.js"
+  ]
+}
